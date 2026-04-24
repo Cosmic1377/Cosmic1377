@@ -15,10 +15,9 @@ YouTube: [Cosmic1377](https://youtube.com/@UCrcI5-FmEVjJ5TKxh_slrXQ)
 ## Stats
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cosmic1377&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://streak-stats.demolab.com/?user=Cosmic1377&theme=tokyonight&hide_border=false)
-
 ![](https://github-readme-stats.shion.dev/api?username=Cosmic1377&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
+![](https://streak-stats.demolab.com/?user=Cosmic1377&theme=tokyonight&hide_border=false)
 ---
 
 Feel free to browse my repos or say hi if something catches your eye.
