@@ -1,30 +1,22 @@
-# Hey there, I’m Nobody <img src="https://raw.githubusercontent.com/Nobody277/Nobody277/main/images/Hi.gif" width="32" alt="Hi gif"/>
+# Hi, I'm Cosmic
 
-I’m a Computer Science major and I make things.
+I am a cs major and I make things.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nobody277&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nobody277&layout=compact&theme=default" alt="Top Languages" />
-</p>
+CS student who builds random things. When I need something, I make it.
 
-Some of my favorite apps & languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio-Visual%20Studio-68217A?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/VS%20Code-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Spotify-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" />
-  <img src="https://img.shields.io/badge/Discord-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  <br/>
-  <img src="https://img.shields.io/badge/Java-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Lua-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
-</p>
+YouTube: [Cosmic1377](https://youtube.com/@UCrcI5-FmEVjJ5TKxh_slrXQ)
 
-Socials
-<p align="left">
-  <a href="https://leetcode.com/Nobody277/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-Nobody277-FFA116?style=flat-square&logo=leetcode&logoColor=white"
-         alt="LeetCode – Nobody277"/>
-  </a>
-</p>
+## Tech I use
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+## Stats
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cosmic1377&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Cosmic1377&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=Cosmic1377&theme=tokyonight&hide_border=false)
+
+---
+
+Feel free to browse my repos or say hi if something catches your eye.
