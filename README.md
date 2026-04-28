@@ -4,7 +4,7 @@ I am a cs major and I make things.
 
 CS student who builds random things. When I need something, I make it.
 
-YouTube: [Cosmic1377](https://www.youtube.com/@Cosmic_137)
+YouTube: [Cosmic137](https://www.youtube.com/@Cosmic_137)
 
 ## Tech I use
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
